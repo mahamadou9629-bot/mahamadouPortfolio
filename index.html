@@ -31,13 +31,88 @@
       <h1 class="text-xl font-bold text-primary">MahamadouDem</h1>
 
       <!-- Desktop menu -->
-      <ul class="hidden md:flex space-x-6 font-medium">
-        <li><a href="#home" class="duration-500 hover:rounded-b-lg py-0.5 hover:border-b-blue-600 hover:border-b-[2px] ">Accueil</a></li>
-        <li><a href="#about" class="duration-500 hover:rounded-b-lg py-0.5 hover:border-b-blue-600 hover:border-b-[2px]">À propos</a></li>
-        <li><a href="#skills" class="duration-500 hover:rounded-b-lg py-0.5 hover:border-b-blue-600 hover:border-b-[2px]">Compétences</a></li>
-        <li><a href="#projects" class="duration-500 hover:rounded-b-lg py-0.5 hover:border-b-blue-600 hover:border-b-[2px]">Projets</a></li>
-        <li><a href="#contact" class="duration-500 hover:rounded-b-lg py-0.5 hover:border-b-blue-600 hover:border-b-[2px]">Contact</a></li>
-      </ul>
+      <ul class="hidden md:flex space-x-8 font-medium">
+  <li>
+    <a href="#home"
+       class="relative text-gray-700 transition-all duration-300
+              hover:text-primary
+              hover:-translate-y-0.5
+              active:translate-y-0 active:scale-95
+              after:content-['']
+              after:absolute after:left-0 after:-bottom-1
+              after:h-[2px] after:w-0
+              after:bg-primary
+              after:transition-all after:duration-300
+              hover:after:w-full">
+      Accueil
+    </a>
+  </li>
+
+  <li>
+    <a href="#about"
+       class="relative text-gray-700 transition-all duration-300
+              hover:text-primary
+              hover:-translate-y-0.5
+              active:translate-y-0 active:scale-95
+              after:content-['']
+              after:absolute after:left-0 after:-bottom-1
+              after:h-[2px] after:w-0
+              after:bg-primary
+              after:transition-all after:duration-300
+              hover:after:w-full">
+      À propos
+    </a>
+  </li>
+
+  <li>
+    <a href="#skills"
+       class="relative text-gray-700 transition-all duration-300
+              hover:text-primary
+              hover:-translate-y-0.5
+              active:translate-y-0 active:scale-95
+              after:content-['']
+              after:absolute after:left-0 after:-bottom-1
+              after:h-[2px] after:w-0
+              after:bg-primary
+              after:transition-all after:duration-300
+              hover:after:w-full">
+      Compétences
+    </a>
+  </li>
+
+  <li>
+    <a href="#projects"
+       class="relative text-gray-700 transition-all duration-300
+              hover:text-primary
+              hover:-translate-y-0.5
+              active:translate-y-0 active:scale-95
+              after:content-['']
+              after:absolute after:left-0 after:-bottom-1
+              after:h-[2px] after:w-0
+              after:bg-primary
+              after:transition-all after:duration-300
+              hover:after:w-full">
+      Projets
+    </a>
+  </li>
+
+  <li>
+    <a href="#contact"
+       class="relative text-gray-700 transition-all duration-300
+              hover:text-primary
+              hover:-translate-y-0.5
+              active:translate-y-0 active:scale-95
+              after:content-['']
+              after:absolute after:left-0 after:-bottom-1
+              after:h-[2px] after:w-0
+              after:bg-primary
+              after:transition-all after:duration-300
+              hover:after:w-full">
+      Contact
+    </a>
+  </li>
+</ul>
+
 
       <!-- Burger button -->
       <button id="burger" class="md:hidden focus:outline-none">
@@ -47,28 +122,81 @@
       </button>
     </nav>
 
-    <!-- Mobile menu -->
-    <div id="mobileMenu" class="hidden md:hidden bg-white border-t">
-      <ul class="flex flex-col p-4 space-y-3 font-medium">
-        <li><a href="#home" class="block">Accueil</a></li>
-        <li><a href="#about" class="block">À propos</a></li>
-        <li><a href="#skills" class="block">Compétences</a></li>
-        <li><a href="#projects" class="block">Projets</a></li>
-        <li><a href="#contact" class="block">Contact</a></li>
-      </ul>
+    <!-- Mobile menu
+      <!-- ================= MENU MOBILE ================= -->
+<div id="mobileMenu"
+     class="hidden md:hidden bg-white border-t">
+
+  <ul class="flex flex-col p-6 space-y-4 font-medium">
+
+    <li>
+      <a href="#home"
+         class="block text-gray-700 transition-all duration-300
+                hover:text-primary
+                active:scale-95
+                hover:pl-2">
+        Accueil
+      </a>
+    </li>
+
+    <li>
+      <a href="#about"
+         class="block text-gray-700 transition-all duration-300
+                hover:text-primary
+                active:scale-95
+                hover:pl-2">
+        À propos
+      </a>
+    </li>
+
+    <li>
+      <a href="#skills"
+         class="block text-gray-700 transition-all duration-300
+                hover:text-primary
+                active:scale-95
+                hover:pl-2">
+        Compétences
+      </a>
+    </li>
+
+    <li>
+      <a href="#projects"
+         class="block text-gray-700 transition-all duration-300
+                hover:text-primary
+                active:scale-95
+                hover:pl-2">
+        Projets
+      </a>
+    </li>
+
+    <li>
+      <a href="#contact"
+         class="block text-gray-700 transition-all duration-300
+                hover:text-primary
+                active:scale-95
+                hover:pl-2">
+        Contact
+      </a>
+    </li>
+
+  </ul>
+</div>
+
     </div>
   </header>
 
   <!-- ================= HERO ================= -->
  $ <!-- ================= HERO ================= -->
-<section id="home" class="min-h-screen flex items-center bg-gray-50 pt-24">
-  <div class="max-w-7xl mx-auto px-4 text-center animate-on-scroll">
+<section id="home"
+  class="min-h-screen flex items-center justify-center pt-24 bg-cover bg-center relative"
+  style="background-image: url('img/civileng.jpg');"">
+  <div class="mx-auto px-4 text-center animate-on-scroll bg-gray-500 max-w-[60%] p-2" >
 
     <h2 class="text-4xl md:text-5xl font-bold mb-4 text-blue-600">
       Étudiant en Génie Civil
     </h2>
 
-    <p class="text-lg md:text-xl text-gray-600 mb-8 italic">
+    <p class="text-sm md:text-xl text-white mb-8 italic">
       Étudiant en génie civil, je développe en parallèle des compétences en technologie, communication et langues pour créer des projets utiles et intelligents.
       Ce site est mon espace de travail : j’y présente ce que j’apprends, ce que je construis et ce que je vise.
     </p>
@@ -130,7 +258,7 @@
   </section>
   <!-- mon parcour -->
   <section>
-    <div class="max-w-5xl mx-auto px-4 animate-on-scroll">
+    <div class="max-w-5xl mx-auto px-4 animate-on-scroll bg-blue-600">
       <h3 class="text-3xl font-bold mb-6 text-center">Mon Parcours</h3>
       <p class="text-gray-600 mb-8 text-center">
         Actuellement étudiant en génie civil. Parallèlement, je développe mes compétences en programmation Python et en communication pour diversifier mon profil et m'adapter aux exigences du monde moderne.
