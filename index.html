@@ -3,6 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="icon" type="image/png" href="img/civileng.jpg">
+
   <link rel="stylesheet" href="src/output.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <title>Portfolio | Étudiant Génie Civil</title>
@@ -26,7 +28,7 @@
 <body class="font-sans text-gray-800 scroll-smooth">
 
   <!-- ================= HEADER / NAVBAR ================= -->
-  <header class="fixed top-0 left-0 w-full bg-white shadow z-50">
+  <header class="fixed top-0 left-0 w-full   z-50 " >
     <nav class="max-w-7xl mx-auto px-4 py-3 flex justify-between items-center">
       <h1 class="text-xl font-bold text-primary">MahamadouDem</h1>
 
@@ -111,6 +113,7 @@
       Contact
     </a>
   </li>
+  
 </ul>
 
 
@@ -125,7 +128,7 @@
     <!-- Mobile menu
       <!-- ================= MENU MOBILE ================= -->
 <div id="mobileMenu"
-     class="hidden md:hidden bg-white border-t">
+     class="hidden md:hidden border-t">
 
   <ul class="flex flex-col p-6 space-y-4 font-medium">
 
@@ -188,27 +191,29 @@
   <!-- ================= HERO ================= -->
  $ <!-- ================= HERO ================= -->
 <section id="home"
-  class="min-h-screen flex items-center justify-center pt-24 bg-cover bg-center relative"
-  style="background-image: url('img/civileng.jpg');"">
-  <div class="mx-auto px-4 text-center animate-on-scroll bg-gray-500 max-w-[60%] p-2" >
+  class="min-h-screen flex items-center justify-center pt-24 bg-cover bg-center relative "
+  style="background-image: url('img/civileng.jpg');"
+  >
+  <div class="mx-auto px-4 text-center animate-on-scroll  max-w-[60%] p-5" >
 
-    <h2 class="text-4xl md:text-5xl font-bold mb-4 text-blue-600">
+    <h2 class="text-4xl md:text-5xl font-bold mb-4 text-black">
       Étudiant en Génie Civil
     </h2>
 
-    <p class="text-sm md:text-xl text-white mb-8 italic">
-      Étudiant en génie civil, je développe en parallèle des compétences en technologie, communication et langues pour créer des projets utiles et intelligents.
-      Ce site est mon espace de travail : j’y présente ce que j’apprends, ce que je construis et ce que je vise.
+    <p class="text-sm md:text-xl text-gray-900 mb-8 ">
+      Étudiant en génie civil, je développe en parallèle des compétences en technologie, 
+      communication et langues pour créer des projets utiles et intelligents.
+      
     </p>
 
     <!-- Boutons -->
-    <div class="flex flex-col sm:flex-row justify-center gap-4">
+    <div class="flex flex-col md:flex-row justify-center gap-4 md:text-[12px]">
 
       <!-- WhatsApp -->
       <a
         href="https://wa.me/22396298545"
         target="_blank"
-        class="flex items-center justify-center gap-2 bg-green-500 text-white px-6 py-3 rounded-lg hover:bg-green-600 transition"
+        class="flex items-center justify-center gap-2 bg-green-500 text-white px-4 py-2 rounded-lg hover:bg-green-600 transition"
       >
          Me contacter sur WhatsApp <i class="fa-brands fa-whatsapp"></i>
       </a>
@@ -217,11 +222,11 @@
       <a
         href="https://www.linkedin.com/in/ton-profil"
         target="_blank"
-        class="flex items-center justify-center gap-2 bg-blue-700 text-white px-6 py-3 rounded-lg hover:bg-blue-800 transition"
+        class="flex items-center justify-center gap-2 bg-blue-700 text-white px-4 py-2 rounded-lg hover:bg-blue-800 transition"
       >
          Ajouter sur LinkedIn <i class="fa-brands fa-linkedin"></i>
       </a>
-      <a href="Mahamadou - CV.pdf" download class="flex items-center justify-center gap-2 bg-gray-800 text-white px-6 py-3 rounded-lg hover:bg-gray-900 transition">
+      <a href="Mahamadou - CV.pdf" download class="flex items-center justify-center gap-2 bg-gray-800 text-white px-4 py-2 rounded-lg hover:bg-gray-900 transition">
          Télécharger mon CV <i class="fa-solid fa-download"></i>
       </a>
 
@@ -257,15 +262,21 @@
     </div>
   </section>
   <!-- mon parcour -->
-  <section>
-    <div class="max-w-5xl mx-auto px-4 animate-on-scroll bg-blue-300 text-black p-4 rounded-lg">
+  <section class="m-4 bg-zinc-50 shadow-2xl">
+    <div class="max-w-5xl mx-auto px-4 animate-on-scroll  text-black p-4 rounded-lg">
       <h3 class="text-3xl font-bold mb-6 text-center">Mon Parcours</h3>
-      <p class="text-white mb-8 text-center">
-        Actuellement étudiant en génie civil. Parallèlement, je développe mes compétences en programmation Python et en communication pour diversifier mon profil et m'adapter aux exigences du monde moderne.
-    
-      </p>
-      <div class="text-center p-1.5 m-2.5" >Licence en Génie Civil</div>
-      <div class="text-center p-1.5 m-2.5">formation en parallele et stage</div>
+      <div class="gap-6 flex justify-center p-10% ">
+        <div class="p-6 bg-gray-800 rounded-lg text-center h-72 items-center text-sky-500 min-w-[45%] shadow-md">
+          <h3 class="font-semibold text-lg mb-2">Académique</h3>
+          <a href="academic.html" class="rounded-2xl bg-blue-600 text-white px-4 py-2 hover:bg-blue-700 transition">voir details</a>
+        </div>
+        <div class="p-6 bg-gray-800 rounded-lg  text-center h-72 items-center text-blue-400 min-w-[45%] shadow-md">
+          <h3 class="font-semibold text-lg mb-3">Formation en parallele et langues</h3>
+          <a href="formalang.html" class="rounded-2xl bg-blue-600 text-white px-4 py-2 hover:bg-blue-700 transition">Voir détails</a>
+        </div>
+
+      </div>
+     
       
       
     </div>
@@ -274,13 +285,17 @@
   <!-- ================= COMPÉTENCES ================= -->
   <section id="skills" class="py-20 bg-gray-50">
     <div class="max-w-6xl mx-auto px-4 animate-on-scroll">
-      <h3 class="text-3xl font-bold mb-10 text-center">Compétences</h3>
+      <h3 class="text-3xl font-bold mb-10 text-center">Compétences techniques</h3>
 
-      <div class="grid sm:grid-cols-2 md:grid-cols-4 gap-6">
-        <div class="p-6 bg-white rounded-lg shadow text-center">Génie civil</div>
-        <div class="p-6 bg-white rounded-lg shadow text-center">Anglais</div>
-        <div class="p-6 bg-white rounded-lg shadow text-center">Développement web</div>
-        <div class="p-6 bg-white rounded-lg shadow text-center">Communication</div>
+      <div class="grid sm:grid-cols-2 md:grid-cols-4 gap-6 text-sky-500">
+        <div class="p-6 bg-gray-800 rounded-lg  text-center h-32 items-center shadow-lg">Génie civil</div>
+        <div class="p-6 bg-gray-800  rounded-lg  text-center h-32 items-center shadow-lg">
+          <img src="" alt="">
+          <h3>Anglais</h3>
+          <p>Niveau c1</p>
+        </div>
+        <div class="p-6 bg-gray-800  rounded-lg shadow-lg text-center h-32 items-center">Développement web</div>
+        <div class="p-6 bg-gray-800  rounded-lg shadow-lg text-center h-32 items-center">AutoCad</div>
       </div>
     </div>
   </section>
@@ -380,7 +395,8 @@
 
   <!-- ================= FOOTER ================= -->
   <footer class="py-6 text-center text-gray-500 text-sm">
-    © 2026 - Portfolio personnel
+    © 2026 - Portfolio personnel 
+    <p><i class="fa-regular fa-envelope"></i>emahamadou9629@gmail.com</p>
   </footer>
 
   <!-- ================= JAVASCRIPT ================= -->
