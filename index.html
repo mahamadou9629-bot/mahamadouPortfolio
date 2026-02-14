@@ -2,430 +2,280 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <link rel="icon" type="image/png" href="img/civileng.jpg">
-
-  <link rel="stylesheet" href="src/output.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfolio | Etudiant Genie Civil</title>
+  <meta name="description" content="Portfolio de Mahamadou Dembele, etudiant en genie civil: competences, parcours academique, projets, formations et contact." />
+  <meta name="robots" content="index, follow, max-image-preview:large" />
+  <meta name="author" content="Mahamadou Dembele" />
+  <link rel="canonical" href="https://mahamadou9629-bot.github.io/mahamadouPortfolio/" />
+  <link rel="alternate" hreflang="fr" href="https://mahamadou9629-bot.github.io/mahamadouPortfolio/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="fr_FR" />
+  <meta property="og:site_name" content="Portfolio Mahamadou Dembele" />
+  <meta property="og:title" content="Portfolio | Etudiant Genie Civil" />
+  <meta property="og:description" content="Decouvrez le parcours, les competences et les projets de Mahamadou Dembele en genie civil." />
+  <meta property="og:url" content="https://mahamadou9629-bot.github.io/mahamadouPortfolio/" />
+  <meta property="og:image" content="https://mahamadou9629-bot.github.io/mahamadouPortfolio/img/civileng.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Portfolio | Etudiant Genie Civil" />
+  <meta name="twitter:description" content="Parcours academique, competences et projets en genie civil." />
+  <meta name="twitter:image" content="https://mahamadou9629-bot.github.io/mahamadouPortfolio/img/civileng.jpg" />
+  <link rel="icon" type="image/png" href="img/civileng.jpg" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <title>Portfolio | Étudiant Génie Civil</title>
-
-  <!-- Tailwind CSS CDN -->
   <script src="https://cdn.tailwindcss.com"></script>
-
-  <!-- Configuration Tailwind (optionnelle) -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Mahamadou Dembele",
+      "jobTitle": "Etudiant en genie civil",
+      "url": "https://mahamadou9629-bot.github.io/mahamadouPortfolio/",
+      "image": "https://mahamadou9629-bot.github.io/mahamadouPortfolio/img/WhatsApp%20Image%202026-01-23%20at%2019.22.27.jpeg",
+      "email": "mahamadou9629@gmail.com",
+      "sameAs": [
+        "https://www.linkedin.com/",
+        "https://wa.me/22396298545"
+      ]
+    }
+  </script>
   <script>
     tailwind.config = {
       theme: {
         extend: {
           colors: {
-            primary: '#2563eb'
+            brand: {
+              50: '#f8fafc',
+              100: '#f1f5f9',
+              300: '#cbd5e1',
+              600: '#0f766e',
+              700: '#115e59',
+              900: '#0b2a2d'
+            },
+            sand: '#f5efe3'
+          },
+          boxShadow: {
+            panel: '0 14px 40px rgba(2, 24, 32, 0.12)'
           }
         }
       }
     }
   </script>
 </head>
-<body class="font-sans text-gray-800 scroll-smooth">
+<body class="bg-slate-100 text-slate-800 scroll-smooth">
+  <header class="fixed inset-x-0 top-0 z-50">
+    <nav class="mx-auto flex max-w-6xl items-center justify-between rounded-b-2xl border border-slate-200 bg-white/90 px-4 py-3 shadow-lg backdrop-blur md:px-6">
+      <a href="#home" class="text-base font-extrabold tracking-wide text-brand-700 sm:text-lg">Mahamadou Dembele</a>
 
-  <!-- ================= HEADER / NAVBAR ================= -->
-  <header class="fixed top-0 left-0 w-full   z-50 " >
-    <nav class="max-w-7xl mx-auto px-4 py-3 flex justify-between items-center">
-      <h1 class="text-xl font-bold text-primary">MahamadouDem</h1>
-
-      <!-- Desktop menu -->
-      <ul class="hidden md:flex space-x-8 font-medium">
-  <li>
-    <a href="#home"
-       class="relative text-gray-700 transition-all duration-300
-              hover:text-primary
-              hover:-translate-y-0.5
-              active:translate-y-0 active:scale-95
-              after:content-['']
-              after:absolute after:left-0 after:-bottom-1
-              after:h-[2px] after:w-0
-              after:bg-primary
-              after:transition-all after:duration-300
-              hover:after:w-full">
-      Accueil
-    </a>
-  </li>
-
-  <li>
-    <a href="#about"
-       class="relative text-gray-700 transition-all duration-300
-              hover:text-primary
-              hover:-translate-y-0.5
-              active:translate-y-0 active:scale-95
-              after:content-['']
-              after:absolute after:left-0 after:-bottom-1
-              after:h-[2px] after:w-0
-              after:bg-primary
-              after:transition-all after:duration-300
-              hover:after:w-full">
-      À propos
-    </a>
-  </li>
-
-  <li>
-    <a href="#skills"
-       class="relative text-gray-700 transition-all duration-300
-              hover:text-primary
-              hover:-translate-y-0.5
-              active:translate-y-0 active:scale-95
-              after:content-['']
-              after:absolute after:left-0 after:-bottom-1
-              after:h-[2px] after:w-0
-              after:bg-primary
-              after:transition-all after:duration-300
-              hover:after:w-full">
-      Compétences
-    </a>
-  </li>
-
-  <li>
-    <a href="#projects"
-       class="relative text-gray-700 transition-all duration-300
-              hover:text-primary
-              hover:-translate-y-0.5
-              active:translate-y-0 active:scale-95
-              after:content-['']
-              after:absolute after:left-0 after:-bottom-1
-              after:h-[2px] after:w-0
-              after:bg-primary
-              after:transition-all after:duration-300
-              hover:after:w-full">
-      Projets
-    </a>
-  </li>
-
-  <li>
-    <a href="#contact"
-       class="relative text-gray-700 transition-all duration-300
-              hover:text-primary
-              hover:-translate-y-0.5
-              active:translate-y-0 active:scale-95
-              after:content-['']
-              after:absolute after:left-0 after:-bottom-1
-              after:h-[2px] after:w-0
-              after:bg-primary
-              after:transition-all after:duration-300
-              hover:after:w-full">
-      Contact
-    </a>
-  </li>
-  
-</ul>
-
-
-      <!-- Burger button -->
-      <button id="burger" class="md:hidden focus:outline-none">
-        <svg class="w-7 h-7" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16"/>
-        </svg>
+      <button id="burger" class="rounded-lg border border-slate-300 p-2 md:hidden" aria-label="Ouvrir le menu">
+        <i class="fa-solid fa-bars"></i>
       </button>
+
+      <ul class="hidden items-center gap-6 text-sm font-semibold md:flex">
+        <li><a class="nav-link transition-colors hover:text-brand-700" data-nav href="#home">Accueil</a></li>
+        <li><a class="nav-link transition-colors hover:text-brand-700" data-nav href="#about">A propos</a></li>
+        <li><a class="nav-link transition-colors hover:text-brand-700" data-nav href="#skills">Competences</a></li>
+        <li><a class="nav-link transition-colors hover:text-brand-700" data-nav href="#projects">Projets</a></li>
+        <li><a class="nav-link transition-colors hover:text-brand-700" data-nav href="#contact">Contact</a></li>
+      </ul>
     </nav>
 
-    <!-- Mobile menu
-      <!-- ================= MENU MOBILE ================= -->
-<div id="mobileMenu"
-     class="hidden md:hidden border-t">
-
-  <ul class="flex flex-col p-6 space-y-4 font-medium">
-
-    <li>
-      <a href="#home"
-         class="block text-gray-700 transition-all duration-300
-                hover:text-primary
-                active:scale-95
-                hover:pl-2">
-        Accueil
-      </a>
-    </li>
-
-    <li>
-      <a href="#about"
-         class="block text-gray-700 transition-all duration-300
-                hover:text-primary
-                active:scale-95
-                hover:pl-2">
-        À propos
-      </a>
-    </li>
-
-    <li>
-      <a href="#skills"
-         class="block text-gray-700 transition-all duration-300
-                hover:text-primary
-                active:scale-95
-                hover:pl-2">
-        Compétences
-      </a>
-    </li>
-
-    <li>
-      <a href="#projects"
-         class="block text-gray-700 transition-all duration-300
-                hover:text-primary
-                active:scale-95
-                hover:pl-2">
-        Projets
-      </a>
-    </li>
-
-    <li>
-      <a href="#contact"
-         class="block text-gray-700 transition-all duration-300
-                hover:text-primary
-                active:scale-95
-                hover:pl-2">
-        Contact
-      </a>
-    </li>
-
-  </ul>
-</div>
-
+    <div id="mobileMenu" class="mx-auto hidden max-w-6xl px-4 md:hidden">
+      <ul class="mt-2 space-y-2 rounded-2xl border border-slate-200 bg-white p-4 text-sm font-semibold shadow-panel">
+        <li><a class="nav-link block rounded-lg px-3 py-2 hover:bg-slate-100" data-nav href="#home">Accueil</a></li>
+        <li><a class="nav-link block rounded-lg px-3 py-2 hover:bg-slate-100" data-nav href="#about">A propos</a></li>
+        <li><a class="nav-link block rounded-lg px-3 py-2 hover:bg-slate-100" data-nav href="#skills">Competences</a></li>
+        <li><a class="nav-link block rounded-lg px-3 py-2 hover:bg-slate-100" data-nav href="#projects">Projets</a></li>
+        <li><a class="nav-link block rounded-lg px-3 py-2 hover:bg-slate-100" data-nav href="#contact">Contact</a></li>
+      </ul>
     </div>
   </header>
 
-  <!-- ================= HERO ================= -->
- $ <!-- ================= HERO ================= -->
-<section id="home"
-  class="min-h-screen flex items-center justify-center pt-24 bg-cover bg-center relative "
-  style="background-image: url('img/civileng.jpg');"
-  >
-  <div class="mx-auto px-4 text-center animate-on-scroll  max-w-[60%] p-5" >
+  <main>
+    <section id="home" class="relative overflow-hidden pt-32">
+      <div class="absolute inset-0 bg-[radial-gradient(circle_at_20%_0%,#dbeafe_0%,#f8fafc_45%,#f5efe3_100%)]"></div>
+      <div class="relative mx-auto grid max-w-6xl gap-10 px-4 pb-20 sm:px-6 lg:grid-cols-[1.2fr_1fr] lg:items-center">
+        <div class="animate-on-scroll">
+          <p class="mb-3 inline-flex rounded-full border border-brand-300 bg-white px-3 py-1 text-xs font-semibold uppercase tracking-wider text-brand-700">Portfolio Genie Civil</p>
+          <h1 class="text-3xl font-extrabold leading-tight text-slate-900 sm:text-4xl lg:text-5xl">Etudiant en genie civil, avec une approche moderne de l ingenierie.</h1>
+          <p class="mt-5 max-w-2xl text-sm leading-relaxed text-slate-700 sm:text-base">Je combine projet de terrain, outils numeriques et communication claire pour construire des solutions utiles, solides et responsables.</p>
 
-    <h2 class="text-4xl md:text-5xl font-bold mb-4 text-black">
-      Étudiant en Génie Civil
-    </h2>
-
-    <p class="text-sm md:text-xl text-gray-900 mb-8 ">
-      Étudiant en génie civil, je développe en parallèle des compétences en technologie, 
-      communication et langues pour créer des projets utiles et intelligents.
-      
-    </p>
-
-    <!-- Boutons -->
-    <div class="flex flex-col md:flex-row justify-center gap-4 md:text-[12px]">
-
-      <!-- WhatsApp -->
-      <a
-        href="https://wa.me/22396298545"
-        target="_blank"
-        class="flex items-center justify-center gap-2 bg-green-500 text-white px-4 py-2 rounded-lg hover:bg-green-600 transition"
-      >
-         Me contacter sur WhatsApp <i class="fa-brands fa-whatsapp"></i>
-      </a>
-
-      <!-- LinkedIn -->
-      <a
-        href="https://www.linkedin.com/in/ton-profil"
-        target="_blank"
-        class="flex items-center justify-center gap-2 bg-blue-700 text-white px-4 py-2 rounded-lg hover:bg-blue-800 transition"
-      >
-         Ajouter sur LinkedIn <i class="fa-brands fa-linkedin"></i>
-      </a>
-      <a href="Mahamadou - CV.pdf" download class="flex items-center justify-center gap-2 bg-gray-800 text-white px-4 py-2 rounded-lg hover:bg-gray-900 transition">
-         Télécharger mon CV <i class="fa-solid fa-download"></i>
-      </a>
-
-    </div>
-  </div>
-</section>
-
-
-  <!-- ================= À PROPOS ================= -->
-  <section id="about" class="py-20">
-    <div class="max-w-5xl mx-auto px-4 animate-on-scroll">
-      <h3 class="text-3xl font-bold mb-6 text-center">À propos de moi</h3>
-      <p class="text-gray-600 mb-8 text-center">
-        Étudiant ambitieux en génie civil, je m’intéresse aux nouvelles technologies,
-        à l’apprentissage continu et à l’amélioration personnelle. Mon objectif est
-        de combiner ingénierie, organisation et innovation.
-      </p>
-
-      <div class="grid md:grid-cols-3 gap-6">
-        <div class="p-6 border rounded-lg text-center">
-          <h4 class="font-semibold text-lg mb-2">Discipline</h4>
-          <p class="text-gray-600">Rigueur, constance et engagement quotidien.</p>
-        </div>
-        <div class="p-6 border rounded-lg text-center">
-          <h4 class="font-semibold text-lg mb-2">Apprentissage</h4>
-          <p class="text-gray-600">Toujours apprendre et s’adapter.</p>
-        </div>
-        <div class="p-6 border rounded-lg text-center">
-          <h4 class="font-semibold text-lg mb-2">Excellence</h4>
-          <p class="text-gray-600">Viser la qualité dans chaque projet.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- mon parcour -->
-  <section class="m-4 bg-zinc-50 shadow-2xl">
-    <div class="max-w-5xl mx-auto px-4 animate-on-scroll  text-black p-4 rounded-lg">
-      <h3 class="text-3xl font-bold mb-6 text-center">Mon Parcours</h3>
-      <div class="gap-6 flex justify-center p-10% ">
-        <div class="p-6 bg-gray-800 rounded-lg text-center h-72 items-center text-sky-500 min-w-[45%] shadow-md">
-          <h3 class="font-semibold text-lg mb-2">Académique</h3>
-          <a href="academic.html" class="rounded-2xl bg-blue-600 text-white px-4 py-2 hover:bg-blue-700 transition">voir details</a>
-        </div>
-        <div class="p-6 bg-gray-800 rounded-lg  text-center h-72 items-center text-blue-400 min-w-[45%] shadow-md">
-          <h3 class="font-semibold text-lg mb-3">Formation en parallele et langues</h3>
-          <a href="formalang.html" class="rounded-2xl bg-blue-600 text-white px-4 py-2 hover:bg-blue-700 transition sm:text-12px sm:px-0.5">Voir détails</a>
+          <div class="mt-7 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
+            <a href="https://wa.me/22396298545" target="_blank" class="inline-flex items-center justify-center gap-2 rounded-xl bg-emerald-600 px-4 py-3 text-sm font-bold text-white hover:bg-emerald-700">WhatsApp <i class="fa-brands fa-whatsapp"></i></a>
+            <a href="https://www.linkedin.com/" target="_blank" class="inline-flex items-center justify-center gap-2 rounded-xl bg-sky-700 px-4 py-3 text-sm font-bold text-white hover:bg-sky-800">LinkedIn <i class="fa-brands fa-linkedin"></i></a>
+            <a href="Mahamadou - CV.pdf" download class="inline-flex items-center justify-center gap-2 rounded-xl bg-slate-900 px-4 py-3 text-sm font-bold text-white hover:bg-black">Telecharger CV <i class="fa-solid fa-download"></i></a>
+          </div>
         </div>
 
-      </div>
-     
-      
-      
-    </div>
-  </section>
-
-  <!-- ================= COMPÉTENCES ================= -->
-  <section id="skills" class="py-20 bg-gray-50">
-    <div class="max-w-6xl mx-auto px-4 animate-on-scroll">
-      <h3 class="text-3xl font-bold mb-10 text-center">Compétences techniques</h3>
-
-      <div class="grid sm:grid-cols-2 md:grid-cols-4 gap-6 text-sky-500">
-        <div class="p-6 bg-gray-800 rounded-lg  text-center h-32 items-center shadow-lg">Génie civil</div>
-        <div class="p-6 bg-gray-800  rounded-lg  text-center h-32 items-center shadow-lg">
-          <img src="" alt="">
-          <h3>Anglais</h3>
-          <p>Niveau c1</p>
+        <div class="animate-on-scroll rounded-3xl border border-slate-200 bg-white p-5 shadow-panel sm:p-6">
+          <img src="img/civileng.jpg" alt="Etudiant genie civil" class="h-56 w-full rounded-2xl object-cover sm:h-72" decoding="async" fetchpriority="high" />
+          <div class="mt-5 grid grid-cols-2 gap-3 text-center text-xs font-semibold sm:text-sm">
+            <div class="rounded-xl bg-slate-100 p-3">Rigueur technique</div>
+            <div class="rounded-xl bg-slate-100 p-3">Gestion de chantier</div>
+            <div class="rounded-xl bg-slate-100 p-3">Modelisation</div>
+            <div class="rounded-xl bg-slate-100 p-3">Communication</div>
+          </div>
         </div>
-        <div class="p-6 bg-gray-800  rounded-lg shadow-lg text-center h-32 items-center">Développement web</div>
-        <div class="p-6 bg-gray-800  rounded-lg shadow-lg text-center h-32 items-center">AutoCad</div>
       </div>
-    </div>
-  </section>
+    </section>
 
-  <!-- ================= PROJETS ================= -->
- <section id="projects" class="py-20">
-  <div class="max-w-7xl mx-auto px-4">
-    <h3 class="text-3xl font-bold mb-10 text-center">Projets</h3>
+    <section id="about" class="mx-auto max-w-6xl px-4 py-16 sm:px-6">
+      <div class="animate-on-scroll grid items-center gap-8 rounded-3xl border border-slate-200 bg-white p-6 shadow-panel sm:p-8 lg:grid-cols-[320px_1fr]">
+        <div class="relative mx-auto w-full max-w-[320px]">
+          <div class="absolute -inset-3 -z-10 rounded-[28px] bg-gradient-to-br from-brand-700 via-cyan-600 to-emerald-500 opacity-80 blur-sm"></div>
+          <div class="overflow-hidden rounded-[24px] border border-white/50 bg-slate-900 p-2">
+            <img data-profile-photo src="img/WhatsApp Image 2026-01-23 at 19.22.27.jpeg" alt="Photo de Mahamadou" class="h-[340px] w-full rounded-[18px] object-cover" loading="lazy" decoding="async" />
+          </div>
+          <p class="mt-3 text-center text-xs font-semibold uppercase tracking-wide text-brand-700">Etudiant Genie Civil</p>
+        </div>
 
-    <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-6">
-
-      <!-- Projet 1 -->
-      <div class="border rounded-lg p-4 bg-white shadow hover:shadow-xl transition transform hover:-translate-y-1">
-        <img src="img/WhatsApp Image 2026-01-31 at 08.43.41.jpeg" alt="Projet 1" class="rounded mb-4 w-full"/>
-        <h4 class="font-semibold text-lg mb-2">Projet 1</h4>
-        <p class="text-gray-600 mb-4">
-          Création de mon portfolio personnel qui présente mon parcours et mes compétences.
-        </p>
-        <a href="#" class="text-primary font-medium hover:underline">Voir le projet <i class="fa-solid fa-arrow-right"></i></a>
+        <div>
+          <h2 class="text-2xl font-extrabold sm:text-3xl">A propos de moi</h2>
+          <p class="mt-4 text-sm leading-relaxed text-slate-700 sm:text-base">Je suis etudiant en genie civil avec un objectif clair: contribuer a des projets de construction fiables, durables et bien organises. Je developpe en parallele mes competences linguistiques, numeriques et de communication.</p>
+          <div class="mt-6 grid gap-4 sm:grid-cols-3">
+            <article class="rounded-2xl border border-slate-200 bg-slate-50 p-4">
+              <h3 class="text-sm font-extrabold">Discipline</h3>
+              <p class="mt-1 text-xs text-slate-600">Constance et serieux dans le travail quotidien.</p>
+            </article>
+            <article class="rounded-2xl border border-slate-200 bg-slate-50 p-4">
+              <h3 class="text-sm font-extrabold">Apprentissage</h3>
+              <p class="mt-1 text-xs text-slate-600">Amelioration continue en technique et communication.</p>
+            </article>
+            <article class="rounded-2xl border border-slate-200 bg-slate-50 p-4">
+              <h3 class="text-sm font-extrabold">Objectif</h3>
+              <p class="mt-1 text-xs text-slate-600">Construire des infrastructures utiles et durables.</p>
+            </article>
+          </div>
+        </div>
       </div>
+    </section>
 
-      <!-- Projet 2 -->
-      <div class="border rounded-lg p-4 bg-white shadow hover:shadow-xl transition transform hover:-translate-y-1">
-        <img src="https://via.placeholder.com/400x200" alt="Projet 2" class="rounded mb-4 w-full"/>
-        <h4 class="font-semibold text-lg mb-2">Projet 2</h4>
-        <p class="text-gray-600 mb-4">Description courte du projet 2.</p>
-        <a href="#" class="text-primary font-medium hover:underline">Voir le projet <i class="fa-solid fa-arrow-right"></i></a>
+    <section class="mx-auto max-w-6xl px-4 pb-16 sm:px-6">
+      <h2 class="mb-6 text-center text-2xl font-extrabold sm:text-3xl">Mon parcours</h2>
+      <div class="grid gap-5 md:grid-cols-2">
+        <a href="academic.html" class="group rounded-3xl border border-slate-200 bg-brand-900 p-6 text-white shadow-panel transition hover:-translate-y-1">
+          <h3 class="text-xl font-bold">Parcours academique</h3>
+          <p class="mt-2 text-sm text-slate-200">Voir mes etapes de formation, les competences acquises et mes objectifs universitaires.</p>
+          <span class="mt-5 inline-flex items-center gap-2 text-sm font-bold text-sand">Voir details <i class="fa-solid fa-arrow-right"></i></span>
+        </a>
+        <a href="formalang.html" class="group rounded-3xl border border-slate-200 bg-slate-900 p-6 text-white shadow-panel transition hover:-translate-y-1">
+          <h3 class="text-xl font-bold">Formations et langues</h3>
+          <p class="mt-2 text-sm text-slate-200">Decouvrir comment ces competences renforcent mon profil d ingenieur.</p>
+          <span class="mt-5 inline-flex items-center gap-2 text-sm font-bold text-sand">Voir details <i class="fa-solid fa-arrow-right"></i></span>
+        </a>
       </div>
-
-      <!-- Projet 3 -->
-      <div class="border rounded-lg p-4 bg-white shadow hover:shadow-xl transition transform hover:-translate-y-1">
-        <img src="https://via.placeholder.com/400x200" alt="Projet 3" class="rounded mb-4 w-full"/>
-        <h4 class="font-semibold text-lg mb-2">Projet 3</h4>
-        <p class="text-gray-600 mb-4">Description courte du projet 3.</p>
-        <a href="#" class="text-primary font-medium hover:underline">Voir le projet <i class="fa-solid fa-arrow-right"></i></a>
+      <div class="mt-6 rounded-2xl border border-slate-200 bg-white p-5 text-sm leading-relaxed text-slate-700 shadow-sm sm:text-base">
+        Ce parcours est construit autour d une logique simple: consolider les bases scientifiques, maitriser les outils du genie civil, puis developper des competences transversales pour mieux communiquer, mieux organiser et mieux collaborer sur les projets.
       </div>
+    </section>
 
-    </div>
-  </div>
-</section>
+    <section id="skills" class="bg-slate-50 py-16">
+      <div class="mx-auto max-w-6xl px-4 sm:px-6">
+        <h2 class="mb-8 text-center text-2xl font-extrabold sm:text-3xl">Competences</h2>
+        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+          <div class="rounded-2xl border border-slate-200 bg-white p-5 text-center font-semibold shadow-sm">Genie civil</div>
+          <div class="rounded-2xl border border-slate-200 bg-white p-5 text-center font-semibold shadow-sm">AutoCAD</div>
+          <div class="rounded-2xl border border-slate-200 bg-white p-5 text-center font-semibold shadow-sm">Developpement web</div>
+          <div class="rounded-2xl border border-slate-200 bg-white p-5 text-center font-semibold shadow-sm">Anglais (C1)</div>
+        </div>
+      </div>
+    </section>
 
+    <section id="projects" class="mx-auto max-w-6xl px-4 py-16 sm:px-6">
+      <h2 class="mb-8 text-center text-2xl font-extrabold sm:text-3xl">Projets</h2>
+      <div class="grid gap-5 sm:grid-cols-2 xl:grid-cols-3">
+        <article class="rounded-3xl border border-slate-200 bg-white p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-panel">
+          <img data-profile-photo src="img/WhatsApp Image 2026-01-23 at 19.22.27.jpeg" alt="Projet portfolio" class="h-44 w-full rounded-2xl object-cover" loading="lazy" decoding="async" />
+          <h3 class="mt-4 text-lg font-bold">Portfolio personnel</h3>
+          <p class="mt-2 text-sm text-slate-600">Conception et mise en ligne d un portfolio personnel responsive.</p>
+        </article>
+        <article class="rounded-3xl border border-slate-200 bg-white p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-panel">
+          <img src="https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&w=1000&q=70" alt="Projet chantier" class="h-44 w-full rounded-2xl object-cover" loading="lazy" decoding="async" />
+          <h3 class="mt-4 text-lg font-bold">Etude de chantier</h3>
+          <p class="mt-2 text-sm text-slate-600">Exercice de planification avec phasage, budget et securite.</p>
+        </article>
+        <article class="rounded-3xl border border-slate-200 bg-white p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-panel sm:col-span-2 xl:col-span-1">
+          <img src="https://images.unsplash.com/photo-1489515217757-5fd1be406fef?auto=format&fit=crop&w=1000&q=70" alt="Projet modelisation" class="h-44 w-full rounded-2xl object-cover" loading="lazy" decoding="async" />
+          <h3 class="mt-4 text-lg font-bold">Modelisation structure</h3>
+          <p class="mt-2 text-sm text-slate-600">Initiation a la conception structurelle et verification des charges.</p>
+        </article>
+      </div>
+    </section>
 
-  <!-- ================= CONTACT ================= -->
-  <!-- ================= CONTACT ================= -->
-<section id="contact" class="py-20 bg-gray-50">
-  <div class="max-w-xl mx-auto px-4 animate-on-scroll">
-    <h3 class="text-3xl font-bold mb-6 text-center">Contact</h3>
+    <section id="contact" class="bg-slate-50 py-16">
+      <div class="mx-auto max-w-2xl px-4 sm:px-6">
+        <h2 class="mb-6 text-center text-2xl font-extrabold sm:text-3xl">Contact</h2>
+        <form action="mailto:mahamadou9629@gmail.com" method="POST" enctype="text/plain" class="space-y-4 rounded-3xl border border-slate-200 bg-white p-5 shadow-panel sm:p-8">
+          <input type="text" name="Nom" placeholder="Nom" required class="w-full rounded-xl border border-slate-300 px-4 py-3 focus:border-brand-600 focus:outline-none" />
+          <input type="email" name="Email" placeholder="Email" required class="w-full rounded-xl border border-slate-300 px-4 py-3 focus:border-brand-600 focus:outline-none" />
+          <textarea name="Message" rows="5" placeholder="Message" required class="w-full rounded-xl border border-slate-300 px-4 py-3 focus:border-brand-600 focus:outline-none"></textarea>
+          <button type="submit" class="w-full rounded-xl bg-brand-700 px-4 py-3 font-bold text-white hover:bg-brand-600">Envoyer un email</button>
+        </form>
+      </div>
+    </section>
+  </main>
 
-    <!--
-      IMPORTANT :
-      Remplace "tonemail@email.com" par TON VRAI EMAIL
-    -->
-    <form
-      action="mailto:mahamadou9629@gmail.com"
-      method="POST"
-      enctype="text/plain"
-      class="space-y-4"
-    >
-      <input
-        type="text"
-        name="Nom"
-        placeholder="Nom"
-        required
-        class="w-full p-3 border rounded-lg"
-      />
-
-      <input
-        type="email"
-        name="Email"
-        placeholder="Email"
-        required
-        class="w-full p-3 border rounded-lg"
-      />
-
-      <textarea
-        name="Message"
-        rows="4"
-        placeholder="Message"
-        required
-        class="w-full p-3 border rounded-lg"
-      ></textarea>
-
-      <button
-        type="submit"
-        class="w-full bg-primary text-white py-3 rounded-lg hover:bg-blue-700 transition"
-      >
-        M’écrire un email
-      </button>
-    </form>
-
-    <p class="text-sm text-gray-500 text-center mt-4">
-      Le message s’ouvrira directement dans votre application email.
-    </p>
-  </div>
-</section>
-
-
-  <!-- ================= FOOTER ================= -->
-  <footer class="py-6 text-center text-gray-500 text-sm">
-   
-    <p><strong><i class="fa-regular fa-envelope"></i>mahamadou9629@gmail.com</strong></p>
-    <p class="mt-2">&copy; 2026 Mahamadou DEMBELE. Tous droits réservés.</p>
+  <footer class="border-t border-slate-200 bg-white py-6 text-center text-sm text-slate-600">
+    <p><i class="fa-regular fa-envelope"></i> mahamadou9629@gmail.com</p>
+    <p class="mt-1">Copyright 2026 Mahamadou Dembele</p>
   </footer>
 
-  <!-- ================= JAVASCRIPT ================= -->
   <script>
-    // Burger menu
+    // Change seulement cette ligne pour remplacer ta photo partout sur la page.
+    const PROFILE_PHOTO = 'img/WhatsApp Image 2026-01-23 at 19.22.27.jpeg';
+
+    document.querySelectorAll('[data-profile-photo]').forEach((img) => {
+      img.src = PROFILE_PHOTO;
+    });
+
     const burger = document.getElementById('burger');
     const mobileMenu = document.getElementById('mobileMenu');
+    const navLinks = Array.from(document.querySelectorAll('[data-nav]'));
+
+    const setActive = (id) => {
+      navLinks.forEach((link) => {
+        const active = link.getAttribute('href') === `#${id}`;
+        link.classList.toggle('text-brand-700', active);
+        link.classList.toggle('font-extrabold', active);
+      });
+    };
 
     burger.addEventListener('click', () => {
       mobileMenu.classList.toggle('hidden');
     });
 
-    // Scroll animations
-    const animatedElements = document.querySelectorAll('.animate-on-scroll');
+    document.querySelectorAll('#mobileMenu a').forEach((link) => {
+      link.addEventListener('click', () => mobileMenu.classList.add('hidden'));
+    });
 
-    const observer = new IntersectionObserver(entries => {
-      entries.forEach(entry => {
+    const sectionObserver = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          setActive(entry.target.id);
+        }
+      });
+    }, { rootMargin: '-35% 0px -55% 0px', threshold: 0.01 });
+
+    ['home', 'about', 'skills', 'projects', 'contact'].forEach((id) => {
+      const section = document.getElementById(id);
+      if (section) {
+        sectionObserver.observe(section);
+      }
+    });
+
+    const revealObserver = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
         if (entry.isIntersecting) {
           entry.target.classList.add('opacity-100', 'translate-y-0');
         }
       });
-    }, { threshold: 0.1 });
+    }, { threshold: 0.12 });
 
-    animatedElements.forEach(el => {
+    document.querySelectorAll('.animate-on-scroll').forEach((el) => {
       el.classList.add('opacity-0', 'translate-y-6', 'transition', 'duration-700');
-      observer.observe(el);
+      revealObserver.observe(el);
     });
-  </script>
 
+    setActive('home');
+  </script>
 </body>
 </html>

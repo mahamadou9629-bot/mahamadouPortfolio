@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mahamadou9629-bot.github.io/mahamadouPortfolio/sitemap.xml
