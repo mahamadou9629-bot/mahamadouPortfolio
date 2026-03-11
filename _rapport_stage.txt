@@ -1,0 +1,958 @@
+
+--- page 1 ---
+REPUBLIQUE TUNISIENNE  
+ 
+ 
+      
+ 
+MINISTERE DE L'ENSEIGNEMENT SUPERIEUR   ET DE LA RECHERCHE SCIENTIFIQUE  
+
+DIRECTION GEN ERALE DES ETUDES TECHNOLOGIQUES  
+Institut Supérieur des Etudes Technologiques  de Siliana  
+ 
+ 
+                     Département Génie civi l 
+- Rapport de stage -  
+Initiation  
+ 
+Elaboré par  : Mahamadou DEMBELE  
+Niveau  : L1 Génie civil TC  
+Du : 5/Janvier/2026       au    03/Fév rier/2026      
+Elaboré dans  : D.R.E.H.A.T  
+Encadreur dans la société  : ANIS MEFT EH 
+ 
+ 
+ 
+ 
+Année universitaire  : 2025/2026  
+  
+
+--- page 2 ---
+Page | 1  
+ SOMMAIRE  
+ 
+Liste des figures  ................................ ................................ ................................ ...............................  3 
+Remerciement  ................................ ................................ ................................ ................................ ... 5 
+Introduction  ................................ ................................ ................................ ................................ ...... 6 
+Chapitre 1 : Présentation de l’entreprise  ................................ ................................ ................................ .. 7 
+I. Présentation de la Direction Régionale de l’Equipement et de l’Habitat  : ................................ .. 7 
+I .1 Historique  : ................................ ................................ ................................ .....................  7 
+I .2 Activités et respect  de l’environnement  ................................ ................................ ........  8 
+I .3 Organigramme de la D.R.E .H.A.T  ................................ ................................ ................  8 
+I .4 Fonction des différents services  ................................ ................................ .....................  9 
+Chapitre 2 : Les tâches effectuées  ................................ ................................ ................................ .. 11 
+I. Présentation du projet  ................................ ................................ ................................ ...............  11 
+I.1 Description du projet  ................................ ................................ ................................ ..... 11 
+I.2 Localisation du projet  ................................ ................................ ................................ ... 12 
+I.3. Les intervenants  ................................ ................................ ................................ ...........  13 
+II. Matériaux, matériels et engins utilisé sur le chantier  ................................ ...............................  15 
+II.1 Les Matériaux  : ................................ ................................ ................................ ............  15 
+II.2 Les engins du chantier  : ................................ ................................ ...............................  17 
+II.3 Les matériels  ................................ ................................ ................................ ................  19 
+III. DESCRIPTION DES TRAVAUX RÉALISÉS  ................................ ................................ ......................  21 
+III.1 Organisation générale du chantier  ................................ ................................ ..............  21 
+III.2 Lecture et compréhension des plans  ................................ ................................ ...........  22 
+III.3 Implantation de l’ouvrage  : ................................ ................................ ........................  24 
+III.4 Excavation des fouilles  : ................................ ................................ ............................  26 
+III.5 Gros béton  ................................ ................................ ................................ ..................  27 
+--- page 3 ---
+Page | 2  
+ III.6. Repiquage et matérialisation des axes des poteaux  : ................................ .................  28 
+III.7 Les ferraillages  ................................ ................................ ................................ ...........  29 
+III.8 Coffrage  ................................ ................................ ................................ ......................  37 
+III.9 Bétonnage et décoffrage de semelle  ................................ ................................ ...........  39 
+III.10 Excavation de  fouille en rigoles  ................................ ................................ ..............  40 
+III.11 Coulage du béton de propreté  ................................ ................................ ...................  40 
+III.12 Mise en place et Coffrage de la longrine  ................................ ................................ .. 41 
+Conclusion  ................................ ................................ ................................ ................................ ...... 43 
+            
+ 
+  
+--- page 4 ---
+Page | 3  
+ Liste des figures  
+Figure 1: Organigramme de la DREHAT Siliana  ................................ ................................ ............  8 
+Figure 2: panneau du chantier  ................................ ................................ ................................ ........  12 
+Figure 3  : Localisation du projet  ................................ ................................ ................................ .... 12 
+Figure 4: L e ciment  ................................ ................................ ................................ ........................  15 
+Figure 5: Le sable  ................................ ................................ ................................ ...........................  16 
+Figure 6: Le gravier  ................................ ................................ ................................ ........................  16 
+Figure 7: Le tractopelle  ................................ ................................ ................................ ..................  17 
+Figure 8: La bétonnière  ................................ ................................ ................................ ..................  18 
+Figure 9: Tracteur  ................................ ................................ ................................ ...........................  18 
+Figure 10: Le niveau à bulle  ................................ ................................ ................................ ...........  19 
+Figure 11: Fil à plomb  ................................ ................................ ................................ ....................  20 
+Figure 12  : Récepteur GPS  ................................ ................................ ................................ .............  20 
+Figure 13: Panneau de sécurité  ................................ ................................ ................................ ....... 22 
+Figure 14: Plan d'architecture  ................................ ................................ ................................ .........  23 
+Figure 15: Plan d'implantation des fondations  ................................ ................................ ...............  23 
+Figure 16: Détail des semelles et ferraillage  ................................ ................................ ..................  24 
+Figure 17: Chaise d’implantation utilisée pour le repérage des axes  ................................ .............  25 
+Figure 18: Matérialisation des fouilles  ................................ ................................ ...........................  25 
+Figure 19  : Excavation de fouille  ................................ ................................ ................................ ... 26 
+Figure 20  : Fouilles -en puis  ................................ ................................ ................................ ............  26 
+Figure 21: Différence entre bon sol et mauvais sol  ................................ ................................ ........  26 
+Figure 22: Coulage du gros béton  ................................ ................................ ................................ .. 27 
+Figure 23: Ségrégation du gros béton  ................................ ................................ ............................  28 
+Figure 24: correction du problème de ségrégation  ................................ ................................ .........  28 
+Figure 25: Marquage de l'axe de poteau dans la fouille  ................................ ................................ . 29 
+Figure 26: Repérage des axes du poteau  ................................ ................................ ........................  29 
+Figure 27: Pince à ligature  ................................ ................................ ................................ .............  29 
+Figure 28: Fil de ligature  ................................ ................................ ................................ ................  30 
+--- page 5 ---
+Page | 4  
+ Figure 29: Le mètre ruban  ................................ ................................ ................................ ..............  30 
+Figure 30: Cisaille m anuelle  ................................ ................................ ................................ ..........  31 
+Figure 31: Barre a pliage  ................................ ................................ ................................ ................  31 
+Figure 32: clé a pliage  ................................ ................................ ................................ ....................  31 
+Figure 33: La cintreuse  ................................ ................................ ................................ ...................  31 
+Figure 34: semelle de joint  ................................ ................................ ................................ .............  32 
+Figure 35  : Semelle e xcentrée sur le plan ................................ ................................ .......................  33 
+Figure 36: Semelle excentrée exécutée  ................................ ................................ ..........................  33 
+Figure 37: Tableau des semelles  ................................ ................................ ................................ .... 33 
+Figure 38 : Préparation des barres d'armature de semelle selon le plan  ................................ .........  33 
+Figure 39: Ferraillage de la semelle isolée avant bétonnage  ................................ ..........................  34 
+Figure 40: Etrier  ................................ ................................ ................................ .............................  34 
+Figure 41: Epingle  ................................ ................................ ................................ ..........................  35 
+Figure 42: Cadre  ................................ ................................ ................................ .............................  35 
+Figure 43: Ferraillage de la longrin e ................................ ................................ ..............................  36 
+Figure 44: Pré -poteau  ................................ ................................ ................................ .....................  36 
+Figure 45: Mise en place du coffrage  ................................ ................................ .............................  37 
+Figure 46: Cale d’enrobage  ................................ ................................ ................................ ............  37 
+Figure 47  : Fouille débordée de l'eau  ................................ ................................ .............................  38 
+Figur e 48: Nettoyage de fouille  ................................ ................................ ................................ ...... 38 
+Figure 49  : Mise en place du ferraillage de la semelle et du pré poteau dans le coffrage  ...... 38 
+Figure 50: Bétonnage de la semelle isolée  ................................ ................................ .....................  39 
+Figure 51: Semelle aprè s durcissement  ................................ ................................ ..........................  39 
+Figure 52: Excavation de fouille en rigole  ................................ ................................ .....................  40 
+Figure 53: Couche de béton de propreté  ................................ ................................ ........................  41 
+Figure 54: Mise en place de la longrine  ................................ ................................ .........................  41 
+Figure 55: Coffrage  de la longrine  ................................ ................................ ................................ . 42 
+ 
+  
+--- page 6 ---
+Page | 5  
+ Remerciement  
+ 
+Je tiens à exprimer mes sincères remerciements à l’entreprise d’accueil Direction Régionale de 
+l’Equipement et l’Habitat pour m’avoir offert l’opportunité d’effectuer ce stage et pour la 
+qualité de l’accueil qui m’a été réservé.  
+Je remercie tout particulièrement mon encadreur  Mr ANIS MEFTE H pour son 
+accompagnement, ses conseils et sa disponibilité tout au long de cette période de stage.  
+Mes remerciements s’adressent également à l’ensemble  du personnel de l’entreprise pour leur 
+collaboration et leur aide.  
+Enfin, je remercie l’ISET de Siliana  ainsi que tous les enseignants qui ont contribué à ma 
+formation et à la réalisation de ce rapport . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- page 7 ---
+Page | 6  
+ Introduction  
+Dans le cadre de ma for mation à l’Institut Supérieur des Études Technologiques de Siliana,  il 
+est prévu la réalisation d’un stage d’initiation afin de nous permettre à découvrir le milieu 
+professionnel et de mettre en pratique les connaissances thé oriques acquises au cours de no tre 
+formation.  
+  
+La recherche de ce stage a nécessité plusieurs démarches auprès des entreprises du domaine du 
+génie civil, ce qui m’a permis de mieux comprendre les exigences du monde professionnel et 
+l’importance de l’initiative personnelle.  
+ 
+L’objectif principal de ce stage est de découvrir le fonctionnement d’un projet sur le terrain, 
+d’observer les différentes étapes de réalisation et de comprendre l’organisation du travail ainsi 
+que le rôle des différents intervenants  et d’associer les notion vu en cl asse a la pratique sur le 
+terrain enfin de les comprendre mieux . 
+ 
+Ce stage représente ainsi une étape importante dans mon parcours universitaire, car il m’a offert 
+l’opportunité de découvrir le milieu professionnel et de renforcer mes compétences en vue de  
+mon projet professionnel futur . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- page 8 ---
+Page | 7  
+ Chapitre 1 : Présentation de 
+l’entreprise  
+I. Présentation de la Direction Régionale de l’Equipement et de 
+l’Habitat  : 
+ 
+La Direction Régionale de l’Équipement et de l’Habitat de Siliana est un organisme public 
+placé sous la tutelle du Ministère de l’Équipement et de l’Habitat. Elle joue un rôle clé dans le 
+développement et la modernisation des infrastructures au sein du gouvernorat de Siliana, en 
+assurant la mise en œuvre des politiques nationales dans les domaines de s travaux publics, de 
+l’habitat et de l’aménagement urbain.   
+ 
+I .1 Historique  : 
+Créée le 15 avril 1980, la Direction Régionale de l'Equipement de l'habitat e t de 
+l'aménagement (DREHAT) de S iliana  est une structure publique à caractère administratif  
+appart enant au ministère de l'équipement et de l'habitat. La DREH AT collabore avec la protection 
+civile afin de garantir la sécurité et sauver la vie de la population en cas de danger.  
+En 1987, la direction a changé de siège à la rue Naceur Kaabi par le Ministre  Mohamed Sayah 
+avec six services :  
+ 
+ La sous -direction des études et des contrôles (S. D.E.S) des bâtiments.  
+ Service des ponts et chaussées (S.P.C).  
+ Les services des bâtiments civils (S.B.C).  
+ Les services de l’aménagement urbain (S.A.U).  
+ Le service de l ’habitat (S.H) :  
+ Le service administratif et comptable (S.A.C).  
+--- page 9 ---
+Page | 8  
+  I .2 Activités et respect  de l’environnement  
+La DREHAT a débuté ses activités par le service des ponts et chaussées et le service des 
+bâtiments. Elle a un rôle très important dans plusieur s domaines: routes, ponts, bâtiments, 
+domaines agricoles, sportifs la DREHAT est très prudents vis -à-vis de l'environnement et de la 
+clientèle qui sont très souvent satisfaits des services rendus par cette structure.  
+ 
+ 
+I .3 Organigr amme de la D.R. E.H.A.T  
+ 
+ 
+Figure 1: Organigramme de la DREHAT Siliana  
+--- page 10 ---
+Page | 9  
+  
+I .4 Fonction des différents services  
+ 
+La Direction Régionale de l’Équipement et de l’Habitat est composée de plusieurs services 
+techniques et administratifs. Chaque service joue un rôle précis dans la réalisation, le suivi et le 
+contrôle des projets d’infrastructure et de bâtiments civils.  
+ 
+ Sous -direction des études et des contrôles  a.
+La sous -direction des études et des contrôles est chargée du suivi et du contrôle des études 
+techniques  relatives aux projets routiers et aux bâtiments civils dont la réal isation est confiée à la 
+direction régionale.  
+Elle assure également le lancement des appels d’offres , leur analyse , ainsi que le 
+dépouillement des soumissions . 
+En outre, ce service veille au contrôle et à la validation des études des travaux neufs , 
+notamme nt pour les projets routiers, afin de garantir leur conformité aux normes techniques en 
+vigueur.  
+ 
+ Service des ponts et chaussées  b.
+Le service des ponts et chaussées est responsable de l’entretien, de la réparation et de la 
+sauvegarde de l’infrastructure rout ière au niveau régional.  
+Il assure également le suivi et le contrôle de la réalisation des travaux neufs  du réseau routier 
+classé, tels que les ouvrages d’art , les travaux de renforcement  et les aménagements routiers.  
+Ce service est représenté dans toutes les délégations par zones, disposant de matériels et de 
+personnels spécialisés  pour intervenir sur le réseau routier local.  
+Par ailleurs, il gère d’importants moyens humains et matériels  destinés à la réalisation des 
+travaux, dont les crédits sont délégués  directement à la direction régionale.  
+ 
+ Service des bâtiments civils  c.
+Le service des bâtiments civils est chargé du suivi et du contrôle de la réalisation des projets 
+de bâtiments civils , qu’il s’agisse de nouvelles constructions  ou de travaux d’entretien e t de 
+ 
+ 
+--- page 11 ---
+Page | 10  
+ réhabilitation . 
+Il assure également le contrôle des paiements  des différentes entreprises titulaires de marchés de 
+bâtiments civils avec la direction.  
+En plus de ces missions, ce service est responsable de l’établissement et du règlement des 
+marchés , garantissant ainsi le respect des procédures administratives et techniques.  
+ 
+ Service de l’aménagement urbain  d.
+Le service de l’aménagement urbain a pour mission le suivi des études  et la révision des plans 
+d’aménagement urbains et ruraux . 
+Il participe aux tr avaux de la commission régionale des lotissements  et intervient également au 
+sein de la commission régionale technique des bâtiments civils . 
+Ce service apporte aussi une assistance technique aux communes , notamment dans les projets 
+d’urbanisme et d’aménage ment du territoire.  
+ 
+ Service de l’habitat  e.
+Le service de l’habitat est chargé de la gestion des plans d’aménagement  des localités 
+communales et rurales, notamment dans le cadre de la commission des autorisations de bâtir . 
+Il assure également une assistance aux communes  et intervient dans plusieurs autres missions 
+administratives.  
+Ce service gère les procédures administratives, juridiques et comptables des marchés 
+publics  dont la réalisation est confiée à la direction.  
+Enfin, il est responsable de la gestion du mobilier et des équipements  appartenant à la direction.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+--- page 12 ---
+Page | 11  
+ Chapitre 2 : Les tâches effectuées  
+I. Présentation du projet  
+I.1 Description du projet  
+Le stage d’initiation a été effectué sur le chantier de construction d’un Centre d’Art 
+Dramatique à Silia na, un projet public relevant du secteur du bâtiment à vocation culturelle.  
+Identification du projet  
+ 
+Projet  Construction d’un Centre d’Art Dramatique  
+Lieu  Siliana  
+Maître d’ouvrage  Conseil Régional de Siliana et Direction 
+Régionale de l’Équipement et de l’Habitat de 
+Siliana  
+ 
+Ministère de tutelle  Ministère des Affaires Culturelles  
+Date de commencement des travaux  21 octobre 2025  
+ 
+Durée contractuelle des travaux  420 jours  
+Nature du projet  Bâtiment public à usage culturel  
+ Budget  du projet  5 milliards T ND 
+ 
+Tableau 1: Informations relatives au projet  
+--- page 13 ---
+Page | 12  
+  
+I.2 Localisation du projet  
+Figure 2: panneau du chantier  
+Figure 3 : Localisation du projet  
+--- page 14 ---
+Page | 13  
+  
+I.3. Les intervenants  
+La réalisation du présent projet a nécessité l’intervention de plusieurs acteurs spécialisés dans les 
+différents domaines du bâtiment et des travaux publics. Chaque intervenant joue un rôle bien 
+défini afin d’assurer la bonne conception, le suivi et l’exécution des travaux dans le respect des 
+normes techniques et réglementaires.  
+ Architectes : Adel Bouaziz et Nessim Dhahri  a.
+ 
+Les a rchitectes sont chargés de la conception architecturale du projet. Leur mission consiste 
+principalement à :  
+ concevoir les plans architecturaux ;  
+ définir l’aspect esthétique et fonctionnel de l’ouvrage ;  
+ veiller au respect des exigences urbanistiques ;  
+ coordonner avec les bureaux d’études techniques.  
+Ils constituent l’interface principale entre le maître d’ouvrage et les différents intervenants 
+techniques.  
+ 
+ 
+ Bureau d’études structure et VRD : ENIETEC  b.
+Le bureau d’études structure et VRD assure les études tech niques relatives à la stabilité de 
+l’ouvrage et aux réseaux extérieurs. Ses principales missions sont :  
+ le dimensionnement des éléments porteurs (semelles, poteaux, poutres, dalles) ;  
+ l’élaboration des plans de ferraillage ;  
+ l’étude des Voiries et Réseaux Divers (VRD) ;  
+ la vérification de la conformité aux normes en vigueur.  
+Ce bureau garantit la sécurité et la durabilité de la structure.  
+ Ingénieur conseil fluide : Samir Kouba  c.
+L’ingénieur fluide est responsable des études relatives aux installations hydraul iques et sanitaires. 
+Il intervient notamment dans :  
+--- page 15 ---
+Page | 14  
+  la conception des réseaux d’alimentation en eau ;  
+ l’étude des évacuations des eaux usées et pluviales ;  
+ le dimensionnement des équipements sanitaires ;  
+ l’optimisation du fonctionnement hydraulique du bâti ment.  
+ 
+ Ingénieur conseil électricité  : Abdelkafi KhairEddine  d.
+L’ingénieur électricité prend en charge l’ensemble des études électriques du projet, notamment :  
+ la conception des installations électriques ;  
+ le dimensionnement des câbles et équipements ;  
+ l’étude de l’éclairage ;  
+ la mise en conformité avec les normes de sécurité électrique.  
+ 
+ Bureau de contrôle  : World Technical Inspection GC Tunis  e.
+Le bureau de contrôle a pour mission de vérifier la conformité technique des études et des 
+travaux exécutés. Il assu re : 
+ le contrôle de la qualité des matériaux ;  
+ la vérification de l’exécution des ouvrages ;  
+ le respect des normes de sécurité ;  
+ la validation des différentes phases du chantier.  
+Son rôle est essentiel pour garantir la fiabilité et la sécurité de l’ouvrage . 
+ 
+ Entreprise de réalisation  : Entreprise Garmazi Brahim  f.
+L’entreprise de réalisation est chargée de l’exécution matérielle des travaux sur chantier. Ses 
+responsabilités comprennent :  
+ l’organisation du chantier ;  
+ la mobilisation des moyens humains et matéri els ; 
+ l’exécution des travaux conformément aux plans ;  
+ le respect des délais et des règles de sécurité.  
+Elle constitue l’acteur principal de la phase d’exécution.  
+--- page 16 ---
+Page | 15  
+ II. Matériaux, m atériel s et engins utilisé sur le chantier  
+II.1 Les Matériaux  : 
+ Le ciment  : a.
+Le ciment utilisé sur le chantier est un ciment Portland de type CEM I 42,5 R . Ce type de ciment 
+est composé principalement de clinker, ce qui lui confère une résistance mécanique élevée.  
+La classe 42,5 signifie que la résistance minimale à la compression du mortier normalisé atteint 
+42,5 MPA  à 28 jours. La lettre R (Résistance initiale élevée) indique un développement rapide 
+des résistances mécaniques durant les premiers jours.  Ce type de ciment a été choisi parce que 
+c’est adapté  aux  travaux de structure, p ermet un décoffrage plus rapide et assure une bonne 
+durabilité de l’ouvrage . Durant le stage, ce ciment a été utilisé pour les travaux de gros béton et 
+de fondation .    
+ 
+ 
+ 
+Figure 4: Le ciment  
+--- page 17 ---
+Page | 16  
+  Les granulats  : b.
+Les granulats constituent l’ossature du béton. Ils représentent env iron 70 à 80 % du volume total 
+du béton.  
+ Le sable (granulat fin)  : assure la compacité du mélange  
+ 
+ 
+ Le gravier (granulat grossier)  : participe à la résistance mécanique.  
+ 
+ 
+Figure 5: Le sable  
+Figure 6: Le gravier  
+--- page 18 ---
+Page | 17  
+ II.2 Les engins  du chantier  : 
+ La tractopelle  : a.
+La tractopelle  est un engin de ch antier polyvalent équipé d’un godet à l’avant  et d’une pelle 
+mécanique à l’arrière . Il a été utilisé durant tous les  travaux de terrassement en raison de sa  
+polyvalence  Il est adapté à ce type de chantier et offre un déplacement rapide  sur le chantier  et 
+plus économique que l’utilisation de plusieurs engins différents.  
+ À l’avant, le godet sert à charger et déplacer les matériaux  (terre, sable, graviers).  
+ À l’arrière, la pelle permet de creuser les fouilles et les tranchées  
+ 
+ 
+ La bétonnière  : b.
+La bétonnière est un équipement de chantier utilisé pour mélanger les matériaux nécessaires à 
+la fabrication du béton .  
+Elle est composée principalement d’une cuve rotative , d’un moteur et d’un châssis.  
+La cuve tourne afin de mélanger de manière homogène le ciment, le s able, les graviers et l’eau , 
+pour obtenir un béton de bonne qualité.  
+La béton nière a été utilisée parce qu’elle permet d’obtenir un mélange plus homogène que le faire 
+manuellement, elle est simple à utiliser et produit le béton directement sur le chantier,  mais si le 
+mélange n’est pas bien mixée ou si la hauteur de déversement est importante elle peut produit une 
+ségrégation du béton.  
+Figure 7: Le tractopelle  
+--- page 19 ---
+Page | 18  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Un tracteur agricole avec une benne remorque  c.
+ Sur le chantier, nous avons utilisé un tracteur équipé d’une benne re morque  pour le transport 
+des déblais.  
+Le tracteur assure la traction, tandis que la benne sert à charger et transporter la terre excavée . 
+La benne est métallique et basculante, ce qui facilite le déchargement des matériaux  sur la zone 
+de stockage.  Il a ser vi de transporter la terre issue des fouilles des semelles et évacuer les déblais 
+vers une zone de dépôt  
+Le tracteur ave c benne a été choisi parce que  : 
+ Il est adapté aux petits chantiers  de ce genre  
+ Il est économique que un camion benne  
+ Il peut circul er facilement sur un terrain irrégulier  
+Figure 9: Tracteur  
+Figure 8: La bétonnière  
+--- page 20 ---
+Page | 19  
+ II.3 Les matériels  
+ Niveau à bulle  a.
+ Le niveau à bulle est un outil utilisé pour vérifier l’ horizontalité  ou la verticalité  d’un élément.  
+Il contient un tube rempli de liquide avec une bulle d’air au centre.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fil à plomb  b.
+Le fil à plomb est un outil simple composé d’un fil et d’un poids métallique.  
+Il permet de vérifier la verticalité  d’un mur ou d’un poteau.  
+Le fil à plomb est un outil simple composé d’un fil et d’un poids métallique.  
+Il permet de vérifier  la verticalité  d’un mur ou d’un poteau.  
+Figure 10: Le niveau à bulle  
+--- page 21 ---
+Page | 20  
+  
+ 
+ Récepteur GPS topographique  c.
+L’implantation des axes du bâtiment a été réalisée par le topographe à  l’aide d’un GPS 
+topographique permettant une précision centimétrique. Cet appareil a servi à matérialiser les a xes 
+principaux et l’emplacement exact des poteaux avant l’exécution des fouilles et a servi au traçage 
+de l’axe des poteaux dans les fouilles avant la mise en place des semelles. Cette étape est 
+essentielle afin d’éviter tout décalage structurel pouvant co mpromettre l’alignement et la stabilité 
+de l’ouvrage.  
+ 
+Figure 11: Fil à plomb  
+Figure 12 : Récepteur GPS  
+--- page 22 ---
+Page | 21  
+ III. DESCRIPTION DES TRAVAUX RÉALISÉS  
+Ce chapitre présente les différentes étapes des travaux réalisés sur le chantier, suivant l’ordre 
+logique de réalisation d’un projet de bâtiment. Pour chaque étape, un e description technique est 
+donnée, suivie des observations effectuées durant le stage.  
+III.1 Organisation générale du chantier  
+Avant le démarrage des travaux, une organisation rigoureuse du chantier est mise en place. Celle -
+ci compre nd l’installation du b ureau de chantier et logement de gardien , la délimitation des zones 
+de travail, l’aménagement des accès et la mise en place des règles de sécurité.  
+Sur le chantier, j’ai pu observer la répartition des tâches entre les ouvriers, le rôle du chef de 
+chantier ainsi que l’importance du respect des consignes de sécurité, notamment le port des 
+équipements de protection individuelle.  
+Sécurité du chantier  : 
+La signalisation joue un rôle essentiel dans la prévention des accidents. Elle permet d’informer, 
+d’avertir et  d’imposer des consignes de sécurité à toutes les personnes entrant sur le chantier.  
+Le panneau observé sur le chantier regroupe plusieurs pictogrammes normalisés, chacun ayant 
+une signification précise :  
+ Accès interdit  : ce panneau indique que l’accès au chantier est strictement interdit aux 
+personnes non autorisées afin d’éviter les accidents.  
+ Port du gilet de sécurité obligatoire : le gilet réfléchissant permet d’améliorer la 
+visibilité des travailleurs, notamment à proximité des engins de chantier.  
+ Port  du casque obligatoire : le casque protège la tête contre les chutes d’objets, très 
+fréquentes sur les chantiers.  
+ Port des chaussures de sécurité obligatoire : les chaussures de sécurité protègent les 
+pieds contre les écrasements, les perforations et les g lissades.  
+ Port des gants obligatoir e : les gants protègent les mains contre les coupures, les 
+brûlures et les blessures lors de la manipulation des matériaux.  
+ Port du harnais de sécurité obligatoi re : ce dispositif est indispensable lors des travaux 
+en hau teur afin de prévenir les chutes graves.  
+ Point  de rassemblement  : il indique l’endroit où les travailleurs doivent se regrouper en 
+--- page 23 ---
+Page | 22  
+ cas d’urgence (incendie, évacuation).  
+ Extincteur  : il permet une intervention rapide en cas de départ de feu.  
+ Premiers seco urs : ce panneau signale la présence d’un poste de premiers secours pour 
+intervenir immédiatement en cas d’accident.  
+ 
+ 
+III.2 Lecture et compréhension des plans  
+La lecture des plans constitue une étape essentielle avant toute exécution des travaux. Plusieur s 
+types de plans sont utilisés sur le chantier.  
+ Plan d’architecture  a.
+Dès mon  premier jour de stage après mon encadreur nous a présenter les différents plan 
+d’architecture du projet et expliquer pourquoi le plan d’architecture est crucial dans un projet de 
+de bâtiment. A travers ces explications j’ai compris que le plan d’architecture permet de 
+visualiser la forme générale du bâtiment, la disposition des espaces, les dimensions des pièces et 
+l’emplacement des ouvertures. Il sert de base pour l’implantation d u bâtiment sur le terrain.  
+Durant le stage . Le plan d’architecture comprend plusieurs documents graphiques tels que  : 
+Le plan de masse, les plans de niveaux, les coupes et les façades.  
+Figure 13: Panneau de sécurité  
+--- page 24 ---
+Page | 23  
+ 
+ 
+ 
+ Plan d’exécution sur chantier  b.
+Sur le chantier, pour les travaux de fondation et de ferraillage , on utilise le plan de structure et le 
+plan de ferraillage.  
+ Le plan de structure  
+Ce plan d étaille les éléments porteurs du bâtiment tels que les semelles, les poteaux, les poutres et 
+les dalles. Il précise également les dimensi ons et les matériaux utilisés.  
+Ce plan est indispensable pour la réalisation correcte des fondations et de l’ossature du bâtiment.  
+Figure 15: Plan d' implantation des fondations  
+Figure 14: Plan d'architecture  
+--- page 25 ---
+Page | 24  
+  Le plan de ferraillage  
+Ce plan indique la disposition des armatures en acier dans les éléments en béton armé. Il précise 
+le diamètre des barres, leur espacement et leur position.  L’étude de ce plan m’a permis de 
+comprendre le rôle du ferraillage dans la résistance du béton armé.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+III.3 Implantation de l’ouvrage  : 
+L’implantation de l’ouvrage constitue une étape fond amentale avant le démarrage des travaux de 
+fondation. Elle a été réalisée conformément au plan de fondation afin de positionner avec 
+précision les axes des poteaux et l’emplacement des semelles isolées.  Lors de la visite du 
+chantier, il a été constaté que le terrain présentait déjà une surface relativement plane et propre. 
+Le sol était stable et débarrassé des obstacles majeurs (végétation dense, remblais importants ou 
+déchets volumineux).  Dans ces conditions, les travaux de terrassement général n’ont pas é té 
+nécessaires. Seules les fouilles ponctuelles destinées aux fondations (semelles isolées et 
+longrines) ont été réalisées.  
+ Mise en place des chaises  a.
+Les chaises d’implantation sont des structures provisoires en bois (piquets et traverses). Les 
+chaises ont  été installées autour de l'emplacement du  bâtiment pour matérialiser les axes, les 
+niveaux et les murs.  Elles servent de support pour tendre des cordeaux (fils) qu i dessinent le plan 
+du bâtiment . Elles ont été placées suffisamment loin pour ne pas être d éplacées pendant les 
+Figure 16: Détail des semelles et ferraillage  
+--- page 26 ---
+Page | 25  
+ travaux de terrassement, mais assez près pour être utiles  
+ 
+ 
+ 
+ Matérialisation de l’axe des fouilles  b.
+À l’aide d’un récepteur GPS , le topographe a procédé au repérage des axes principaux du 
+bâtiment. Les points d’intersection des axes  ont été matérialisés  sur le terrain par des piquets . 
+Cette étape sur chantier a pour objectif de délimiter la zone de fouille, guider le conducteur du 
+tractopelle. On part toujours de l’axe des poteaux puis on marque au sol le contour de la fouille.   
+ 
+Figure 17: Chaise d’implantation uti lisée 
+pour le repérage des axes   
+Figure 18: Matérialisation des fouilles  
+
+--- page 27 ---
+Page | 26  
+ III.4 Excavation des fouilles  en puits: 
+L’excavation  des fouilles  a été réalisée à l’aide d’une tractopelle, conformément aux dimensions 
+et aux niveaux indiqués sur les plans d’exécution.  
+Les fouilles en puits ont été Réalisées pour les semelles isolées destinées à recevoir les poteaux. 
+Ces fouilles sont ponctuelles et de dimensions variables selon les charges transmises.  
+La profondeur des fouilles a été déterminée de manière à atteindre le b on sol, c’est -à-dire une 
+couche suffisamment compacte, assurant une bonne capacité portante.   
+  
+ 
+ 
+Le mauvais sol  : sol brun foncé, meuble, avec racines c’est la couche végétale.  
+Le bon sol  : sol plus clair, plus compact il s’agit  de la couche porteuse s ur laquelle va se reposer 
+la str ucture située  en moyenne à 2,5 m  
+Le mauvais sol  
+Le bon sol  
+Figure 21: Différence entre bon sol et mauvais sol  
+Figure 20 : Fouilles  en pui ts 
+ Figure 19 : Excavation de fouille  
+--- page 28 ---
+Page | 27  
+ III.5  Mise en place du Gros béton   
+Le gros béton  est un béton faiblement dosé à 250kg/m3 de ciment CEMI 42,5,  non armé. C’est 
+est une  étape de préparation des fondations utilisée pour rattraper le niveau du " bon sol"  lorsqu'il  
+est situé en profondeur.  Il est recommandé de ne pas dépasser  1,5 mètre  de chute libre pour éviter 
+la ségrégation des granulats (séparation des composants) . 
+ 
+Remarque  : Sur le chantier, l’épaisseur du gros béton variait selon  la nature du sol et les 
+indications du plan de f ondation. J’ai constaté un manque d’homo généité du  gros béton 
+durant le coulage  (voir figure 23). Les graviers  n’étaient pas correctement m élangés avec la 
+pâte de ciment. Ce phénomène est dû principalement à une ségrégation du béton , causée 
+par: 
+❖ L'excès d'eau  : On a parfois tendance à trop mouiller le gros béton pour faciliter sa mise en 
+place sans vibration, ce qui facilite la descente des graviers.  
+❖ Le versement de grande hauteur : Souvent jeté directement dans des foui lles profondes 
+(fondations), la chute libre sépare violemment les gros éléments du mortier  
+Cela a entraîné une accumulation des graviers au fond de la fouille et une mauvaise répartition du 
+mortier, ce qui peut réduire la résistance et la qualité du béton.  
+Figure 22: Coulage du gros béton  
+--- page 29 ---
+Page | 28  
+ 
+NB : Pour corriger le problème, une intervention manuelle a été réalisée en utilisan t un bâton.  
+ 
+III.6. Repiquage et matérialisation des axes des poteaux  : 
+Après  le coul age du  gros béton, le topographe intervient pour repiquer les axes des pot eaux 
+conformément aux plans d’exécution.  
+À l’aide d’un appareil topographique, l’axe est localisé avec précision dans la fouille. 
+L’intersection des axes est ensuite matér ialisée sur le gros béton  à l’aide de clous ou de repères 
+visibles.  
+Cette opér ation est essentielle pour garantir :  
+ Le bon positionnement du ferraillage  
+ L’alignement des poteaux  
+ La conformité de l’ouvrage aux plans  
+Elle constitue une étape de contrôle avant le démarrage des travaux  de ferraillage et de coffrage.  
+Figure 23: Ségrégation du gros béton  
+Figure 24: correction du problème de ségrégation  
+--- page 30 ---
+Page | 29  
+  
+III.7 Les f erraillage s 
+Le ferraillage consiste à mettre en place les armatures en acier avant le bétonnage. Ces armatures 
+permettent de reprendre les efforts de traction que le béton ne peut pas supporter.  
+Durant le stag e, j’ai observé l e façonnage  et l’assemblage  des armatures selo n le plan de 
+ferraillage, en respectant les recouvrements, les enrobages et les diamètres prescrits.  
+  Matériel utilisé   a.
+ La pince à ligaturer  :  
+Utilisée  pour attacher les barres entre elles à l’aide du fil de ligature.  
+ 
+ 
+ 
+ 
+Figure 25: Marquage de l'axe de poteau 
+dans la  fouille  
+Figure 26: Repérage des axes du poteau  
+Figure 27: Pince à ligature  
+--- page 31 ---
+Page | 30  
+  Le fil de ligature  :  
+Sert à assembler les armatures pour former les cages de ferraillage.  
+ 
+ 
+ 
+ Le mètre ruban  :  
+Utilisé  pour vérifier les longueurs de coupe et les espacements entre barres.  
+ 
+ 
+ 
+ La cisaille à fer (coupe -boulon)  : 
+Permet de couper les barres d’armature aux longueurs pr évues.   
+ 
+Figure 28: Fil de ligature  
+Figure 29: Le mètre ruban  
+--- page 32 ---
+Page | 31  
+  
+ Barre et clé de pliage :   
+Servent  à plier manuellement les barres d’armature.  
+ 
+ La cintreuse : 
+Utilisée pour façonner les barres d’acier selon les formes demandées (étriers, cadres, crochets…).  
+ 
+Figure 31: Barre a pliage  
+ Figure 32: clé a pliage  
+Figur e 33: La cintreuse  
+Figure 30: Cisaille manuelle  
+--- page 33 ---
+Page | 32  
+  Ferraillage des semelles  b.
+ Type de semelle  : 
+Plusieur s types de semelles ont été utilisé s selon la configuration du projet, notamment les 
+semelles is olées, les semelles excentrées  réalisé pour la bâche à eau et semelle de joint . 
+Remarque : La semelle isolée centrée  se distingue de la semelle excentrée  par la position du 
+poteau. Dans le c as d’une semelle excentrée, le poteau est décalé par rapport au centre de la 
+semelle, ce qui nécessite généralement la mise en place d’une longrine de redressement  pour 
+équilibrer les efforts  
+ 
+ Semelle de joint  :  
+Est une semelle de fondation placée sous un joint  entre deux parties d’un ouvrage (deux blocs, 
+deux bâtiments, ou deux zones qui ne d oivent pas travailler ensemble).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Semelle excentrée  : 
+ Est une semelle dont la charge n’est pas appliquée au centre , mais déplacée sur un côté . 
+Figure 34: semelle de joint  
+--- page 34 ---
+Page | 33  
+  
+ 
+ Processus de ferr aillage  
+La semelle isolée a été ferraillée conformément aux indications du plan d’exécution  de S1 à S10  
+chacun avec sa propre dimension  (voir figure 37). Elle est composée d’une nappe d’armatures 
+inférieure disposée en deux directions perpendiculaires afin de reprendre les  efforts de traction 
+générés par les  charges du poteau. L’ensemble a été ligaturé et positionné en respectant 
+l’enrobage prescrit.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 36 : Semelle excentrée  sur le plan   
+Figure 35: Semelle excentrée exécutée  
+Figure 37 : Préparation des barres 
+d'armature de semelle selon le plan  
+Figure 38: Tableau des semelles  isolées 
+--- page 35 ---
+Page | 34  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Ferraillage des longrines  c.
+Nous avons procédé au f erraillage des longrines servant à lier les différen tes semelles  et stabilise 
+la structure . La longrine joue un rôle essentiel dans la répartition de charge et limite les 
+tassements différentiels . 
+ Les éléments de la longrine  
+ Les étriers  : 
+Ils maintiennent les  barres longitudinales en place et résistent  au cisaillement  
+Le cisaillement, c’est une force qui peut "couper" la longrine. Les  étriers empêchent cette rupture.  
+Ils donnent aussi une forme rigide à la cage d’armature  
+Figure 40: Etr ier 
+Figure 39: Ferraillage de la semelle isolée 
+avant bétonnage  
+--- page 36 ---
+Page | 35  
+  Epingle  :  
+Elles Améliorent l’ancrage et solidifier l’ensemble avec les cadres  
+ 
+ 
+ Les cadres  :  
+Maintiennent les barres longitudinales  stable et elles façonnent la forme rectangulaire de la 
+longrine  
+ 
+ Assemblage des éléments  
+L’ensemble des armatures a été soigneusement ligaturé à l’aide de fil de fer,  afin de garantir la 
+rigidité de la cage 
+Figure 41: Epingle  
+Figure 42: Cadre  
+--- page 37 ---
+Page | 36  
+  
+ 
+ Ferraillage des  pré-poteau x d.
+Les attentes verticales des  poteau x ont été mises en place pour assurer la continuité structurelle 
+entre la fondation et l’élément porteur.  On dispose six barres maintenues  rigide par des cadre s et 
+épingle  et trois b arres en dessus pour permettre la liaison avec la semelle.  
+ 
+ 
+Figure 43: Ferraillage de la longrine  
+Figure 44: Pré -poteau  
+--- page 38 ---
+Page | 37  
+ III.8  Coffrage  
+Le coffrage sert à maintenir le béton frais jusqu’à son durcissement. Il doit être suffisamment 
+rigide et bien aligné pour garantir la forme finale de l’élément.  Le coffrage a ét é positionné 
+conformément aux dimensions indiquées sur le plan d’exécution, en veillant au respect de 
+l’alignement, du niveau et de l’enrobage des armatures.   
+Les armatures de la semelle sont mises en place conformément au plan dans la le coffrage et avec 
+les armatures principales disposées en deux directions perpendiculaires ainsi que les attentes 
+verticales du poteau . (voir figure 49) 
+ 
+On a placé  sous la nappe inférieure d’armatures, des cales à béton . Ces cales sont essentielles car 
+elles permettent de respecter l’enrobag e du béton, c’est -à-dire la distance minimale entre les 
+armatures et le coffrage.  
+ 
+ 
+ 
+Problème  : après la pluie l a fouille était débordé  d’eau et  la boue à la surface donc il fallait 
+évacuer l’eau et nettoie encore la surface donc tous ce petit problème  retarde souvent des travaux 
+et repousse le délai pré vu et aussi le cout des travaux . 
+Figure 46: Mise en place d u coffrage  
+Figure 45: Cale d’enrobage  
+
+--- page 39 ---
+Page | 38  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cale à béton  
+Figure 48: Nettoyage de fouille  
+Figure 49 : Mise en place du ferraillage de la semelle et du pré 
+poteau dans le coffrage  
+Figure 47 : Fouille débordée de l'eau  
+--- page 40 ---
+Page | 39  
+ III.9  Bétonnage et décoffrage de semelle  
+Coulage du béton dosé à 350 kg /m3 de ciment CEM I 42,5  de manière continue dans le coffrage  
+et av ec vibration.  
+Après durcissement, le décoffrage a montré une bonne qualité de réalisation.  
+ 
+ 
+ 
+ 
+Figure 50: Bétonnage de la semelle isolée  
+Figure 51: Semelle après durcissement  
+--- page 41 ---
+Page | 40  
+ III.10  Excavation de  fouille en rigoles  
+Réalisées pour les longrines de liaison. Ces fouilles sont continuées et suivent l’axe des murs 
+porteurs.  Vérifier que la profondeur est suffisante pour atteindre le « bon sol »   
+ 
+ 
+III.11  Coulage du béton de propreté  
+C’est une étape de préparation indispensabl e avant de poser le ferraillage des longrines . Le béton 
+de propreté dosé à 200 kg/m3   de ciment  CEM I 42,5 de béton de 5 cm d’épaisseur a été coulé   
+au fond des rigoles afin d’obtenir une surface propre et plane, de protéger les armatures 
+contre le contact direct avec le sol et de faciliter la mise en place  des longrines. sa différence 
+avec le gros es que le béton de propreté assure uniquement la propreté et la planéi té du fond de 
+fouille, tandis que le gros béton, plus épais, sert à la mise à niveau et peut participer à la 
+transmission des charges.  
+Figure 52: Excavat ion de fouille en rigole  
+--- page 42 ---
+Page | 41  
+  
+ 
+III.12  Mise en place et  Coffrage  de la longrine  
+Après durcissement du béton de propreté, Les cages d’armatures de la longrine, préalablement 
+façonnées et ligaturées, sont transportées puis déposées dans la fouille. Elles sont positionnées 
+avec des cales à béton pour respecter l ’enrobage réglementaire.  
+Un coffrage latéral en bois est installé pour maintenir la forme et les dimensions de la longrine  
+ 
+Couche de béton de 
+propreté  
+Figure 53: Couche de béton de propreté  
+Figure 54: Mise en place  du ferraillage  de la longrine  
+--- page 43 ---
+Page | 42  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 55: Coffrage de la lon grine  
+--- page 44 ---
+Page | 43  
+ Conclusion  
+Ce stage m’a permis de découvrir concrètement les différentes étapes des travaux de fondation, 
+depuis la lect ure et la compréhension des plans jusqu’à l’exécution des fouilles, le ferraillage des 
+semelles et des longrines, ainsi que le coffrage et l’implantation des axes des poteaux.  
+ 
+J’ai pu comprendre l’importance du respect des plans, de la précision dans l’ex écution et du rôle 
+essentiel du chef de chantier dans le contrôle et la bonne coordination des travaux. Cette 
+expérience m’a permis d’acquérir des connaissances pratiques sur le terrassement, les types de 
+fouilles, la reconnaissance du bon sol et l’organis ation du chantier.  
+ 
+Ce stage a été très enrichissant et satisfaisant pour moi, car il m’a permis de relier la théorie 
+étudiée en cours à la réalité du terrain. Il a renforcé ma motivation à approfondir mes 
+connaissances en génie civil et à développer davan tage mes compétences techniques et 
+professionnelles.  
+ 
+ 
+ 
+ 
